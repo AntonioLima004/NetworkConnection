@@ -22,4 +22,4 @@ Además, **LearnConnection** cuenta con una base de datos robusta para almacenar
 - Comunicación fluida entre profesores y estudiantes.  
 - Diseño intuitivo y fácil de usar.  
 
-[![th.png](https://i.postimg.cc/X79dXksh/th.png)](https://postimg.cc/3dJdcm5C)
+[![th-Photoroom.png](https://i.postimg.cc/RZ5rL4Qh/th-Photoroom.png)](https://postimg.cc/2VwXzptN)
