@@ -1,8 +1,8 @@
-# LearnConnection 
+# NetworkConnection 
 
-LearnConnection es una plataforma online diseñada para facilitar la interacción entre profesores y estudiantes en escuelas, colegios y universidades. La plataforma permite la gestión digital de calificaciones, tareas y comunicación entre estudiantes y docentes.  
+NetworkConnection es una plataforma online diseñada para facilitar la interacción entre profesores y estudiantes en escuelas, colegios y universidades. La plataforma permite la gestión digital de calificaciones, tareas y comunicación entre estudiantes y docentes.  
 
-Con **LearnConnection**, los profesores pueden:  
+Con **NetworkConnection**, los profesores pueden:  
 - Subir y calificar tareas digitalmente.  
 - Enviar retroalimentación y comunicarse con los estudiantes.  
 
@@ -10,7 +10,7 @@ Los estudiantes pueden:
 - Ver y enviar tareas de forma digital.  
 - Interactuar con sus profesores directamente desde la plataforma.  
 
-Además, **LearnConnection** cuenta con una base de datos robusta para almacenar información clave de los estudiantes, como:  
+Además, **NetworkConnection** cuenta con una base de datos robusta para almacenar información clave de los estudiantes, como:  
 - Nombre.  
 - Edad.  
 - Grado.  
@@ -22,4 +22,4 @@ Además, **LearnConnection** cuenta con una base de datos robusta para almacenar
 - Comunicación fluida entre profesores y estudiantes.  
 - Diseño intuitivo y fácil de usar.  
 
-[![th-Photoroom.png](https://i.postimg.cc/RZ5rL4Qh/th-Photoroom.png)](https://postimg.cc/2VwXzptN)
+[![oo.png](https://i.postimg.cc/Bnx6KZ9q/oo.png)](https://postimg.cc/RWZ4rBZ8)
